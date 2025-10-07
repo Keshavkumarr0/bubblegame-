@@ -30,4 +30,4 @@ The goal is simple — **pop the correct bubble before time runs out!**
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/bubblegame.git
+   git clone https://github.com/keshavkumarr0/bubblegame.git
